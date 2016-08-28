@@ -2,6 +2,7 @@
 layout: post
 title: Week One: Starting the Sophomore Semester (Not Slump)
 ---
+
 ###Last week
 Last week was super hectic and passed by like a blur!
 
