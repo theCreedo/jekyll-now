@@ -8,7 +8,7 @@ UT Sophomore in CS.
 
 ### More Information
 
-I am a social dance leader, code in Java, C, and C++, and spend my free time going to [hackathons](http://devpost.com/theCreedo?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav), reading newsletters, catching up on sleep and listening to audiobooks.
+I am a social dance leader, code in Java, C, and C++, and spend my free time going to hackathons, reading newsletters, catching up on sleep and listening to audiobooks.
 
 ### Recommended Newsletters:
 
@@ -16,7 +16,7 @@ I am a social dance leader, code in Java, C, and C++, and spend my free time goi
 - [theSkimm](http://www.theskimm.com/?r=23744cc6)
 - [NextDraft](http://nextdraft.com/)
 
-### Recommended Reads
+### Recommended Reads:
 
 Entertainment:
 
