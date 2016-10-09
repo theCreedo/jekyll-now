@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week Seven - For a Greater Extension
+title: Week Seven - Balance to an Extension
 ---
 
 What did you do this past week?
