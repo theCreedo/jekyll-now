@@ -36,6 +36,7 @@ I plan to find a partner for OOP to work on Allocaters, and meet and finish up m
 Tip of the Week
 ------
 Here's some Chrome web browser extensions that will help make life easier:
+
 - [Adblock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom?hl=en-US) - Blocks ads
 
 - [StayFocused](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji) - Sets given amount of time for certain websites (Youtube, Facebook, etc...) before blocking them.
