@@ -37,8 +37,13 @@ Tip of the Week
 ------
 Here's some Chrome web browser extensions that will help make life easier:
 - [Adblock](https://chrome.google.com/webstore/detail/adblock/gighmmpiobklfepjocnamgkkbiglidom?hl=en-US) - Blocks ads
+
 - [StayFocused](https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji) - Sets given amount of time for certain websites (Youtube, Facebook, etc...) before blocking them.
+
 - [Smart Tab Mute](https://chrome.google.com/webstore/detail/smart-tab-mute/dnfbgicfhchdpogmafjifjgbcjdaikgn) - Mutes all tabs so only one tab will play sound.
+
 - [News Feed Eradicator for Facebook](https://chrome.google.com/webstore/detail/news-feed-eradicator-for/fjcldmjmjhkklehbacihaiopjklihlgg) - Replaces Facebook news feed with inspirational quotes to help you be more productive.
+
 - [One Tab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?hl=en) - Helps save all tabs into one tab.
+
 - [Rapportive](https://chrome.google.com/webstore/detail/rapportive/hihakjfhbmlmjdnnhegiciffjplmdhin) - Extension for email that allows you to see a person's Linkedin, Facebook, etc... based on their email address.
