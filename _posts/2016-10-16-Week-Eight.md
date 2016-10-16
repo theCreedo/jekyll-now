@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: Week Eight - Work, Blog, Sleep
+title: Week Eight - Eat, Work, Blog, Sleep
 ---
 
 What did you do this past week?
