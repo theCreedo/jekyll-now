@@ -7,7 +7,7 @@ What did you do this past week?
 ------
 I got a job.
 
-One of my friends, Sonam, told her friend Meghana, a UT CS blogger, that I wrote a blog. Apparently the department of CS was looking for another blogger, and she suggested that I apply for the position. Now I'm an official blogger for the UT CS department! I never knew, but this blog for Downing's class really helped me process and explain my thoughts of the week, improve my writing abilities (hopefully), and eventually led me to writing for the UT CS department. If you're interested, posts will be updated every Tuesday (first post this Tuesday!) covering topics from hackathons, recruiting season, to my own personal CS life. [Eric's UTCS Blog](http://www.cs.utexas.edu/blog).
+One of my friends, Sonam, told her friend Meghana, a UT CS blogger, that I wrote a blog. Apparently the department of CS was looking for another blogger, and she suggested that I apply for the position. Now I'm an official blogger for the UT CS department! I never knew, but this blog for Downing's class really helped me process and explain my thoughts of the week, improve my writing abilities (hopefully), and eventually led me to writing for the UT CS department. If you're interested, posts will be updated every Tuesday (first post this Tuesday!) covering topics from hackathons, recruiting season, to my own personal CS life. [UTCS Blog](http://www.cs.utexas.edu/blog).
 
 On another note, my team for Operating Systems spent 3 days trying to figure out one of the stupidest technical bugs ever. Try to catch it.
 
