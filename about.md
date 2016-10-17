@@ -8,7 +8,7 @@ UT Sophomore in CS.
 
 ### More Information
 
-I am a social dance leader, code in Java, C, and C++, and spend my free time going to hackathons, reading newsletters, catching up on sleep and listening to audiobooks.
+I am a UT CS blogger, social dance leader, code in Java, C, and C++, and spend my free time going to hackathons, reading newsletters, catching up on sleep and listening to audiobooks.
 
 ### Recommended Newsletters:
 
