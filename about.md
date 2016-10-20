@@ -6,6 +6,8 @@ permalink: /about/
 
 UT Sophomore in CS.
 
+[Resume](https://resume.creddle.io/resume/1qup0246pjd)
+
 ### More Information
 
 I am a UT CS blogger, social dance leader, code in Java, C, and C++, and spend my free time going to hackathons, reading newsletters, catching up on sleep and listening to audiobooks.
