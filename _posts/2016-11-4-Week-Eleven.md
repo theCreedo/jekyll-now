@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week Eleven - Abstained Coding
+title: Week Eleven - Code Withdrawal
 ---
 
 What did you do this past week?
