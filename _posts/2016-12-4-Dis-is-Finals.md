@@ -25,7 +25,7 @@ Side Note: I am hoping to become a proctor for Downing's OOP class... so this mi
 
 Sider Side Note: (one of my friends tallied up Downing's amount of times he's said certain phrases/words... hopefully Downing doesn't mind these statistics being shown here)
 
-![Downing Statistics](/images/DowningStats.jpg){:class="img-responsive"}
+![Downing Statistics](/images/DowningStats.jpg)
 
 What will you do next week?
 ------
