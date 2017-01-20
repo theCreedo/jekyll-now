@@ -15,11 +15,17 @@ Non-CS-wise, I'm looking forward to Intermediate Running and Fiction Writing. In
 
 Also, I am proctoring for Object Oriented Programming (OOP) this semester, which is the class that inspired this blog, and one of my favorite classes that got me more focused on software tools and code clarity/acuteness. A lot of my peers are in that class, so it will be interesting interacting with them as a proctor rather than a fellow programmer struggling in class.
 
+EDIT: I am no longer taking Programming Languages because I have been added to Software Engineering.
+
 What’s in your way?
 ------
 Though it's not too much in the way, next week for my church ministry, we are starting our One-Desire fast. This means that for 1 week I will be living off of no meat and 1 week I will be living off of just liquids. This might become a huge impediment for my running class, so I need to plan out accordingly my eating and workout habits so I don't accidently pass out during the day.
 
 Also, it's been a while since I've looked over OOP material, so though the lectures will provide good review, I will need to look over past Piazza posts and projects in order to get to a more formidable level of mental prowess in order to instruct/help my fellow peers in the class.
+
+SWE Class Impressions?
+------
+Since I've recently been added to Software Engineering, I have been unable to physically attend the class, and am unable to make any class impression as of right now. 
 
 What will you do next week?
 ------
