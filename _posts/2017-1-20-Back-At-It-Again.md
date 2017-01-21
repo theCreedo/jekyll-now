@@ -23,16 +23,15 @@ Though it's not too much in the way, next week for my church ministry, we are st
 
 Also, it's been a while since I've looked over OOP material, so though the lectures will provide good review, I will need to look over past Piazza posts and projects in order to get to a more formidable level of mental prowess in order to instruct/help my fellow peers in the class.
 
-SWE Class Impressions?
-------
-Since I've recently been added to Software Engineering, I have been unable to physically attend the class, and am unable to make any class impression as of right now. 
-
 What will you do next week?
 ------
 Hopefully, I will get into a good daily routing for college so that I won't fail in the first week. I will start looking into C++ material to revive my OOP skills, as well as try to work on setting up software tools such as Docker and Travis CI so I can help students with any issues they may have in setting up the same software.
 
 I've also started a [devotional plan book](http://www.timothykeller.com/books/the-songs-of-jesus) by Timothy Keller (a gift by my friend/life group leader, Anse), that will go through Psalms, so hopefully those readings will invigorate me daily as I take on my fast and grow in my hunger for God.
 
+SWE Class Impressions?
+------
+Since I've recently been added to Software Engineering, I have been unable to physically attend the class, and am unable to make any class impression as of right now. 
 
 Tip of the Week
 ------
