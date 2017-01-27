@@ -10,13 +10,13 @@ UT Sophomore in CS.
 
 ### More Information
 
-I am a UT CS blogger, social dance leader, code in Java, C, and C++, and spend my free time going to hackathons, reading newsletters, catching up on sleep and listening to audiobooks.
+I am a UT CS blogger, social dance leader, code in Java, C, and C++, and spend my free time writing, going to hackathons, reading newsletters, doing devos, and catching up on sleep.
 
 ### Recommended Newsletters:
 
 - [The Hustle](http://ambassadors.thehustle.co/?ref=76af0631a4)
-- [theSkimm](http://www.theskimm.com/?r=23744cc6)
-- [NextDraft](http://nextdraft.com/)
+- [HackerNewsLetter](www.hackernewsletter.com)
+- [StackExchange Newsletters](http://stackexchange.com/newsletters)
 
 ### Recommended Reads:
 
@@ -37,6 +37,10 @@ Productivity:
 - So Good They Can't Ignore You by Cal Newport
 - Deep Work: Rules for Focused Success in a Distracted World by Cal Newport
 - Pitch Perfect by Bill McGowan
+
+Life:
+
+- The Bible
 
 
 ### Contact me
