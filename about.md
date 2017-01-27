@@ -20,6 +20,10 @@ I am a UT CS blogger, social dance leader, code in Java, C, and C++, and spend m
 
 ### Recommended Reads:
 
+Life:
+
+- The Bible
+
 Entertainment:
 
 - The Martian by Andy Weir
@@ -37,10 +41,6 @@ Productivity:
 - So Good They Can't Ignore You by Cal Newport
 - Deep Work: Rules for Focused Success in a Distracted World by Cal Newport
 - Pitch Perfect by Bill McGowan
-
-Life:
-
-- The Bible
 
 
 ### Contact me
