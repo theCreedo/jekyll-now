@@ -28,6 +28,9 @@ Start working on the 2nd project for SWE, which if I'm not mistaken should be th
 Tip of the Week
 ------
 Here are some articles that I've read this week that I think are good, whether informational, or to put into practice.
+
 - [How to start a startup without ruining your life](https://www.superhi.com/blog/how-to-start-a-startup-without-ruining-your-life?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
+
 - [GitLab Database Incident](https://docs.google.com/document/d/1GCK53YDcBWQveod9kfzW-VCxIABGiryG7_z_6jHdVik/pub?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
+
 - [ Mobile  travel ban  Apps Lyft surges to the top 10 on Apple’s App Store](https://techcrunch.com/2017/01/30/lyft-surges-to-the-top-10-on-apples-app-store-following-the-deleteuber-campaign/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
