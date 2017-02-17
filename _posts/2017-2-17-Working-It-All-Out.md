@@ -5,15 +5,15 @@ title: Working It All Out
 
 What did you do this past week?
 ------
-CS-wise, I spent my Tuesday morning working on the Algo probem set with my friend William. Even as a logical-minded person, I find it hard to put together a short solution that can solve all aspects of a problem, not only because of my nature, but also because there is a certain notation that needs to be followed when writing proofs. Since the Algo exam is coming up next week, I'm hoping to look over many examples and go to office hours so that I will be able to build a good foundation to solve Algo problems at a reasonable pace.
+CS-wise, I spent my Tuesday morning working on the Algo problem-set with my friend William. Even as a logical-minded person, I find it hard to put together a short solution that can solve all aspects of a problem, not only because of my nature, but also because there is a certain notation that needs to be followed when writing proofs. Since the Algo exam is coming up next week, I'm hoping to look over many examples and go to office hours so that I will be able to build a good foundation to solve Algo problems at a reasonable pace.
 
 For SWE, I was able to finish the Netflix project with my partner, Nandhini, pretty early, giving us time to prepare for our Gov. Exam later in the week. For Project 3, I will be working with Nandhini again, as well as 4 other people that I know before. The group seems pretty solid but I am a worried because the Project is assigned over Spring Break, in which I will be traveling most of the time. This means that I will only be able to work remotely, and it will be difficult for me to get in synch with my partners. Hopefully we will split up the work well so that we won't have to worry about no-shows or not finishing any stages in Project 3.
 
-NonCS-wise, I got rekt by my Gov. Exam which I took Thurs., but I did better than expected after having to learn all the material in 2 days. I am looking forward to the next exam, because I will prepare for it more wisely, and I now have an understanding of how the exams work.
+NonCS-wise, I got wrekced by my Gov. Exam which I took Thurs., but I did better than expected after having to learn all the material in 2 days. I am looking forward to the next exam, because I will prepare for it more wisely, and I now have an understanding of how the exams work.
 
-Additionally, for Fiction Writing, I had to show my first draft for my short story, The Clock Smith. The idea of the story is that a clock smith is forced to become a weapon smith for the town he lives in because of an ongoing battle. Unfortunately, I only had 2 out of 6-10 pages that of the complete story, but luckily I have till next Tuesday to complete the full short story. Since I am becoming more accomodated to writing fiction stories, I will probably be able to finish it by Monday, Tuesday morning latest.
+Additionally, for Fiction Writing, I had to show my first draft for my short story, The Clock Smith. The idea of the story is that a clock smith is forced to become a weapon smith for the town he lives in because of an ongoing battle. Unfortunately, I only had 2 out of 6-10 pages that of the complete story, but luckily I have till next Tuesday to complete the full short story. Since I am becoming more accommodated to writing fiction stories, I will probably be able to finish it by Monday, Tuesday morning latest.
 
-Besides all that, I played my 3rd basketball game (which I got rekt in), and found amazing study places (Life Sciences, Belo, and my room) :P
+Besides all that, I played my 3rd basketball game (which I got wrecked in), and found amazing study places (Life Sciences, Belo, and my room) :P
 
 What’s in your way?
 ------
@@ -23,7 +23,7 @@ The reason it's in my way is because it's very scary for me to not put myself ou
 
 SWE Class Impressions?
 ------
-For SWE, similar to OOP, I love the aspect of Downing's openness to asking questions. The class allows for deeper learning and understanding over how Python and other programming languages works. Sure, it's intimidating at times to be called on, especially once Prof. Downing knows your name (because he will call on you and ask his question upfront without hesistation), but I do believe that he does it both to challenge and bring students to a mindset of learning and understanding the subject they take on.
+For SWE, similar to OOP, I love the aspect of Downing's openness to asking questions. The class allows for deeper learning and understanding over how Python and other programming languages works. Sure, it's intimidating at times to be called on, especially once Prof. Downing knows your name (because he will call on you and ask his question upfront without hesitation), but I do believe that he does it both to challenge and bring students to a mindset of learning and understanding the subject they take on.
 
 What will you do next week?
 ------
