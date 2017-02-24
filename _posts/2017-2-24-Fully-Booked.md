@@ -18,7 +18,7 @@ Fitting everything I want to do into 24 hours every 7 days without being so tire
 
 SWE Class Impressions?
 ------
-Class has been really good. The exam should be implementation based, similar to OOP, but I'm quite curious to all the stuff we will have to implement in Python. So far we've covered RangeIterator (RI), Range with RI, Range without RI (using generator functions), map, list comprehensions, reduce, root mean squared, lambda equations, but other than figuring out how to work with multiple inputs for map (which I believe uses *args), I'm not sure what else he will ask us to implement. It's possible that within the next lectures, he will ask us to implement certain operators, but as of right now, it doesn't seem to be the case.
+Class has been really good. The exam should be implementation based, similar to OOP, but I'm quite curious to all the stuff we will have to implement in Python. So far we've covered RangeIterator (RI), Range with RI, Range without RI (using generator functions), map, list comprehensions, reduce, root mean squared, lambda equations, but other than figuring out how to work with multiple inputs for map (which I believe uses \*args), I'm not sure what else he will ask us to implement. It's possible that within the next lectures, he will ask us to implement certain operators, but as of right now, it doesn't seem to be the case.
 
 What will you do next week?
 ------
@@ -32,12 +32,9 @@ Tip of the Week
 ------
 I'm doing a hackathon for SXSW during the Spring Break involving Music, VR/AR, and Film. If you're interested in applying for it, you can check it out [here](https://www.sxsw.com/conference/sxsw-hackathon/).
 
-Anyways, here are some articles I found interesting this week:
+Anyways, here are some link/articles I found interesting this week:s
 
 - [Search Github for 'Remove Password'](https://github.com/search?utf8=%E2%9C%93&q=remove+password&type=Commits&ref=searchresults&utm_source=hackernewsletter&utm_medium=email&utm_term=fun)
 
-- 
-
-- 
 
 
