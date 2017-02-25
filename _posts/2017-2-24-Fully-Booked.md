@@ -36,5 +36,7 @@ Anyways, here are some link/articles I found interesting this week:s
 
 - [Search Github for 'Remove Password'](https://github.com/search?utf8=%E2%9C%93&q=remove+password&type=Commits&ref=searchresults&utm_source=hackernewsletter&utm_medium=email&utm_term=fun)
 
+- [These seven alien worlds could help explain how planets form](http://www.nature.com/news/these-seven-alien-worlds-could-help-explain-how-planets-form-1.21512?WT.mc_id=TWT_NatureNews&utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
 
+- [Announcing the first SHA1 collision](https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
 
