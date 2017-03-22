@@ -10,7 +10,12 @@ UT Sophomore in CS.
 
 ### More Information
 
-I am a UT CS blogger, social dance leader, code in Java, C, and C++, and spend my free time writing, going to hackathons, reading newsletters, doing devos, and catching up on sleep.
+Greetings!
+
+I am a sophomore CS student, a UTCS blogger, and a proctor for Object Oriented Programming. I am always very passionate about learning new things, and thrive in the hackathon environment as a back-end developer and manager. I hope to become a very influential person through writing, programming, and teaching, and I'm always looking for opportunities to make an impact for everyone, while having a little bit of fun with memes along the way.
+
+Passions: Jesus, Software Development, Hackathons, Reading Blogs, Manga, Newsletters, Food
+
 
 ### Recommended Newsletters:
 
