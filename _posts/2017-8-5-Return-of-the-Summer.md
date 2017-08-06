@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Back At It Again
+title: Return of the Summer
 ---
 
 What did you do this past week?
