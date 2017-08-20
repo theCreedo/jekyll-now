@@ -14,7 +14,9 @@ Greetings! Welcome to my personal blog :)
 
 I am a junior CS student, a hackathon enthusiast, an aspiring entrepreneur, and a blogger (both personally and for UTCS).
 
-My vision is to invest into people who will transform the world by leading boldly, programming communicatively, and writing insightful posts that inspire peers and internet passers alike. Currently, I thrive on building ideas and working on projects that impact my city, community, and church. I’m always open to learning new things and constantly looking for opportunities to hear about other's life stories. (hmu if you're free)
+My vision is to invest into people who will transform the world by leading boldly, programming communicatively, and writing insightful posts that inspire peers and internet passers alike.
+
+Currently, I thrive on building ideas and working on projects that impact my city, community, and church. I’m always open to learning new things and constantly looking for opportunities to hear about other's life stories. (hmu if you're free)
 
 Thanks for stopping by and checking out my blog. Hope to hear from you soon!
 
