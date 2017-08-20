@@ -10,9 +10,13 @@ UT Junior in CS.
 
 ### More Information
 
-Greetings!
+Greetings! Welcome to my personal blog :)
 
-I am a junior CS student, a UTCS blogger, and an aspiring entrepreneur. I am always very passionate about learning new things, and thrive in the hackathon environment as a back-end developer and manager. I hope to become a very influential person through writing, programming, and teaching, and I'm always looking for opportunities to make an impact for everyone, while having a little bit of fun with memes along the way.
+I am a junior CS student, a hackathon enthusiast, an aspiring entrepreneur, and a blogger (both personally and for UTCS).
+
+My vision is to invest into people who will transform the world by leading boldly, programming communicatively, and writing insightful posts that inspire peers and internet passers alike. Currently, I thrive on building ideas and working on projects that impact my city, community, and church. I’m always open to learning new things and constantly looking for opportunities to hear about other's life stories. (hmu if you're free)
+
+Thanks for stopping by and checking out my blog. Hope to hear from you soon!
 
 Passions: Jesus, Software Development, Hackathons, Reading Blogs, Manga, Newsletters, Food
 
