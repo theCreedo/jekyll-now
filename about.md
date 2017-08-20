@@ -18,7 +18,7 @@ My vision is to invest into people who will transform the world by leading boldl
 
 Thanks for stopping by and checking out my blog. Hope to hear from you soon!
 
-Passions: Jesus, Software Development, Hackathons, Reading Blogs, Manga, Newsletters, Food
+**Passions:** Jesus, Software Development, Hackathons, Reading Blogs, Teaching, Manga, Newsletters, Food
 
 
 ### Recommended Newsletters:
