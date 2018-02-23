@@ -27,7 +27,7 @@ If you want to check out my faith/inspiration blog, you can find it here on [Med
 
 ### Recommended Newsletters:
 
-- [The Hustle](http://ambassadors.thehustle.co/?ref=76af0631a4)
+- [The Hustle](http://ambassadors.thehustle.co/?ref=2d7d1ee15d)
 - [HackerNewsLetter](www.hackernewsletter.com)
 - [StackExchange Newsletters](http://stackexchange.com/newsletters)
 
